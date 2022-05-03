@@ -4972,6 +4972,7 @@ Michael Wong
 - [Konstantin Shumkin](https://github.com/K98940)
 - [Manas Handore](https://github.com/Manas-H)
 - [Chen Haowei](https://github.com/ChenHaowei2008)
+- [Barry Snow](https://github.com/snowbear86)
 - [prtdh] (https://github.com/prtdh)
 - [TylerStilson] (https://github.com/TylerStilson)
 <!-- prettier-ignore-end -->
