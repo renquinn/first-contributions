@@ -121,6 +121,7 @@ Sakshi Gupta
 Laura Langdon
 Caroline Fye
 Gabrielle Jones
+Shawn Hedgepeth
 - [Suhas M L]
 - [Radhika Bansal] (https://github.com/Radhika403)
 - [Vinay Jain] (https://github.com/vinayjain18)
