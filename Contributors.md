@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Ethan Tanner] (https://github.com/ethanttanner)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Lrabbit] (https://github.com/litter-rabbit)
