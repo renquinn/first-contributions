@@ -1,3 +1,4 @@
+- [Ren Quinn](https://github.com/renquinn)
 # Contributors
 <!-- prettier-ignore-start -->
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
