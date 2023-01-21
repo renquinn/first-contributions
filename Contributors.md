@@ -417,6 +417,7 @@ Zack Bryant
 - [lordson fernando]
 - [Bryan Ortiz](https://github.com/ortizb)
 - [Vox]
+- [Alexia White](https://github.com/alynwhite)
 - [Amey Sawant](https://github.com/Amey0498)
 - [yewinag](https://github.com/yewinag)
 - [Nijil Chandran]
